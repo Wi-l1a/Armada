@@ -1,0 +1,44 @@
+.contact_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.contact_block h3 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+    margin-bottom: 52px;
+}
+
+.contact_block1 {
+    display: in;
+    margin-bottom: 55px;
+}
+
+.contact_b {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 118.5%;
+    letter-spacing: 0.01em;
+    color: #A4A4A4;
+    margin-bottom: 10px;
+}
+
+.contact_block1 p {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 118.5%;
+    color: #000000;
+    padding-left: 30px;
+    margin-bottom: 10px;
+}

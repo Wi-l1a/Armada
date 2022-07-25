@@ -1,0 +1,152 @@
+.border_sol {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 60px;
+}
+
+.service_wrapper {
+    margin-bottom: 60px;
+    width: 100%;
+}
+
+.services_block {
+    display: flex;
+    width: 100%;
+}
+
+.services_block1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
+
+.services_block2 {
+    position: relative;
+    width: 30%;
+    text-align: center;
+}
+
+.services_block2 img {
+    height: 97.2%;
+}
+
+.services_p_img {
+    position: relative;
+    margin: 0px 30px 16px 0px;
+
+}
+
+.services_block3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.services_block_img {
+    position: relative;
+    margin: 0px 72px 0px 0px;
+}
+
+.services_p_img p {
+    position: absolute;
+    left: 25%;
+    top: 70%;
+    color: #FFFFFF;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+#servic_p {
+    position: absolute;
+    left: 25%;
+    top: 58%;
+    color: #FFFFFF;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.services_block_img p,
+.services_block2 p {
+    position: absolute;
+    left: 35%;
+    top: 83%;
+    color: #FFFFFF;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+#servic_p1 {
+    top: 70%;
+    left: 30%;
+}
+
+#servic_p2 {
+    top: 70%;
+    left: 32%;
+}
+
+.services_block_img p {
+    left: 40%;
+}
+
+#servic_p3 {
+    left: 30%;
+}
+
+.services_h3 {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+    white-space: nowrap;
+    margin-bottom: 62px;
+    position: relative;
+    text-align: center;
+}
+
+
+.services_h3::after,
+.services_h3::before {
+    content: "";
+    width: 36%;
+    height: 2px;
+    position: absolute;
+    background: rgb(104, 97, 97);
+    top: 48%;
+}
+
+.services_h3::before {
+    left: 0%;
+}
+
+.services_h3::after {
+    right: 0%;
+}
+
+.advantage {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 60px;
+}
+
+.block_solid {
+    box-shadow: 0 0 10px 4px rgb(109, 101, 101);
+}
+
+.m_head {
+    margin-bottom: 3%;
+}
